@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é André Luís,<br>Tenho 18 anos,<br>Curso 3º termo de ADS pela UNIMAR,<br>Sou apaixonado em aprender coisas novas,<br>Atualmente não trabalho na área,<br>Adoro praticar esportes(natação, corrida, futebol, etc.)
+Meu nome é André Luís,<br>Tenho 18 anos,<br>Curso 3º termo de ADS pela UNIMAR,<br>Sou apaixonado em aprender coisas novas,<br>Adoro praticar esportes(natação, corrida, futebol, etc.)
 
 
 ## 🌐 Socials:
