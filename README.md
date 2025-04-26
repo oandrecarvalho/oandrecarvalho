@@ -45,6 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
 </div>
 
+###
 <!-- Redes Sociais -->
 <div align="center" style="margin: 30px 0;">
   <a href="https://www.linkedin.com/in/oandrecarvalho/" target="_blank" style="margin: 0 25px;">
