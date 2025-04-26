@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<hr style="border: 1px solid #e0e0e0; width: 80%; margin: 20px auto;">
+<hr style="border: 1px solid #0; width: 80%; margin: 20px auto;">
 
 <!-- Sobre Mim -->
 <div align="center" style="margin: 40px 0;">
