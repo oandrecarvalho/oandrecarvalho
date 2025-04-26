@@ -1,4 +1,5 @@
 # 🧑🏻‍💻 André Luís dos Santos Carvalho
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+o+André+Luís!;Seja+muito+bem+vindo!😁)](https://git.io/typing-svg)
 ### 👋 Olá! Eu sou André Luís  
 
 <table>
