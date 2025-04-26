@@ -7,7 +7,7 @@
 
 ###
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<div align="left" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116e4p3o3c080wyawaf41rcw7l9iefl3aanr6hammt&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="180" style="border-radius: 10px;" />
 </div>
 
@@ -38,24 +38,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-###
-
-<img src="https://raw.githubusercontent.com/oandrecarvalho/oandrecarvalho/output/snake.svg" alt="Snake animation" />
-
-###
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=oandrecarvalho&icon=0&color=10)](https://visitcount.itsvg.in)
-
-###
-
 <div style="margin-top: 80px; margin-left: 50px;" align="left">
   <a href="https://www.linkedin.com/in/oandrecarvalho/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -73,3 +55,21 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
+###
+
+<br clear="both">
+
+###
+
+<img src="https://raw.githubusercontent.com/oandrecarvalho/oandrecarvalho/output/snake.svg" alt="Snake animation" />
+
+###
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=oandrecarvalho&icon=0&color=10)](https://visitcount.itsvg.in)
+
+###
