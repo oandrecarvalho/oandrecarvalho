@@ -4,8 +4,6 @@
   </a>
 </div>
 
-<hr style="border: 1px solid #000000; width: 80%; margin: 20px auto;">
-
 <!-- Sobre Mim -->
 <div align="center" style="margin: 40px 0;">
   <table style="border-spacing: 20px;">
@@ -21,8 +19,6 @@
     </tr>
   </table>
 </div>
-
-<hr style="border: 1px solid #e0e0e0; width: 80%; margin: 20px auto;">
 
 <!-- Tecnologias -->
 <div align="center" style="margin: 20px 0;">
@@ -49,8 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
 </div>
 
-<hr style="border: 1px solid #e0e0e0; width: 80%; margin: 20px auto;">
-
 <!-- Redes Sociais -->
 <div align="center" style="margin: 30px 0;">
   <a href="https://www.linkedin.com/in/oandrecarvalho/" target="_blank" style="margin: 0 25px;">
@@ -70,14 +64,10 @@
   </a>
 </div>
 
-<hr style="border: 1px solid #e0e0e0; width: 80%; margin: 20px auto;">
-
 <!-- Snake Animation -->
 <div align="center" style="margin: 40px 0;">
   <img src="https://raw.githubusercontent.com/oandrecarvalho/oandrecarvalho/output/snake.svg" alt="Snake animation" />
 </div>
-
-<hr style="border: 1px solid #e0e0e0; width: 80%; margin: 20px auto;">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
