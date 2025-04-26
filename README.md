@@ -64,19 +64,19 @@
 
 <!-- Redes Sociais -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/oandrecarvalho/" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/oandrecarvalho/" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="https://www.youtube.com/@codecast_unimar" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.youtube.com/@codecast_unimar" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40" alt="YouTube logo" />
   </a>
   <a href="mailto:andresantoscarvalho2004@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail logo" />
   </a>
-  <a href="https://wa.me/5514996002903?text=Olá,%20tudo%20bem?" target="_blank" style="margin: 0 10px;">
+  <a href="https://wa.me/5514996002903?text=Olá,%20tudo%20bem?" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="40" alt="WhatsApp logo" />
   </a>
-  <a href="https://www.instagram.com/oandrecarvalhoo/" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.instagram.com/oandrecarvalhoo/" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40" alt="Instagram logo" />
   </a>
 </div>
