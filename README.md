@@ -24,17 +24,14 @@
 
 </td>
 
-</tr>
-</table>
-
-</div>
-
-</div>
-<td align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116e4p3o3c080wyawaf41rcw7l9iefl3aanr6hammt&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="180px" style="border-radius:10px;" />
+<td>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116e4p3o3c080wyawaf41rcw7l9iefl3aanr6hammt&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="180" style="border-radius: 10px;" />
 </td>
+
 </tr>
 </table>
+
+</div>
 
 ###
 
