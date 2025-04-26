@@ -1,25 +1,41 @@
 <!-- Perfil de André Luís inspirado no modelo @DenverCoder1 -->
 
-<h1 align="center">🧑🏻‍💻 André Luís dos Santos Carvalho</h1>
-<h3 align="center">👋 Olá! Seja muito bem-vindo(a)!</h3>
+<!-- Imagem no topo -->
+<p align="center">
+  <a href="https://github.com/oandrecarvalho">
+    <img src="https://avatars.githubusercontent.com/u/109065255?v=4" width="200" alt="André Luís" style="border-radius: 50%;" />
+  </a>
+</p>
 
-<div align="center">
+<!-- Animação digitando -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack%20em%20formação;Estudante%20de%20ADS%20na%20UNIMAR;Apaixonado%20por%20Tecnologia%20e%20Esportes;Sempre%20buscando%20evoluir!&font=Fira%20Code&center=true&width=500&height=45&color=10B981&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+<!-- Redes sociais -->
+<p align="center">
   <a href="https://www.linkedin.com/in/oandrecarvalho/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" />
   </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/@codecast_unimar" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png" />
   </a>
-  <a href="mailto:andresantoscarvalho2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://wa.me/5514996002903?text=Olá,%20tudo%20bem?" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-%25B2F584?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img width="32px" alt="WhatsApp" title="WhatsApp" src="https://img.icons8.com/ios-filled/50/4CAF50/whatsapp--v1.png" />
   </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:andresantoscarvalho2004@gmail.com" target="_blank">
+    <img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/7H3lRAE.png" />
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/oandrecarvalhoo/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/VXHx3yY.png" />
   </a>
-</div>
+</p>
 
 ---
 
