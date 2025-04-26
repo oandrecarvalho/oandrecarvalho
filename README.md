@@ -9,8 +9,8 @@
   <table style="border-spacing: 20px;">
     <tr>
       <td style="font-size: 1.2rem; color: #333;">
-        📌 <strong>Desenvolvedor em formação | 🎓 3º termo de ADS - UNIMAR</strong><br>
-        💡 <strong>Apaixonado por tecnologia e aprendizado contínuo</strong><br>
+        📌 <p style="margin-bottom:10px;"></p><strong>Desenvolvedor em formação | 🎓 3º termo de ADS - UNIMAR</strong></p><br>
+        💡 <p style="margin-bottom:10px;"><strong>Apaixonado por tecnologia e aprendizado contínuo</strong></p><br>
         ⚡ <strong>Entusiasta de esportes** (🏊‍♂️ natação, 🏃 corrida, ⚽ futebol...)</strong>
       </td>
       <td>
