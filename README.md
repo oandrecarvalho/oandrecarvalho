@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=800&size=25&duration=5040&pause=1100&color=9702FF&width=435&lines=Andr%C3%A9+Lu%C3%ADs+Dos+Santos+Carvalho)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=800&size=25&duration=5040&pause=1100&color=116BFF&width=435&lines=Andr%C3%A9+Lu%C3%ADs+Dos+Santos+Carvalho)](https://git.io/typing-svg)
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+muito+bem+vindo+ao+meu+GitHub!😁)](https://git.io/typing-svg)
 ### 👋 Olá! Eu sou André Luís  
 
