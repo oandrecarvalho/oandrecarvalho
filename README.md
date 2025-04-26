@@ -6,12 +6,12 @@
 
 <!-- Sobre Mim -->
 <div align="center" style="margin: 40px 0;">
-  <table style="border-spacing: 20px;">
+  <table style="border: none;">
     <tr>
       <td style="font-size: 1.2rem; color: #333;">
-        📌 <p style="padding:1px;"><strong>Desenvolvedor em formação | 🎓 3º termo de ADS - UNIMAR</strong></p><br>
-        💡 <p style="padding:1px;"><strong>Apaixonado por tecnologia e aprendizado contínuo</strong></p><br>
-        ⚡ <p style="padding:1px;"><strong>Entusiasta de esportes** (🏊‍♂️ natação, 🏃 corrida, ⚽ futebol...)</strong></p>
+        📌 <strong>Desenvolvedor em formação | 🎓 3º termo de ADS - UNIMAR</strong><br>
+        💡 <strong>Apaixonado por tecnologia e aprendizado contínuo</strong><br>
+        ⚡ <strong>Entusiasta de esportes** (🏊‍♂️ natação, 🏃 corrida, ⚽ futebol...)</strong>
       </td>
       <td>
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116e4p3o3c080wyawaf41rcw7l9iefl3aanr6hammt&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="180" style="border-radius: 10px;" />
