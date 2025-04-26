@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<hr>
+
 ### 👋 Olá! Eu sou André Luís  
 
 <table>
