@@ -90,6 +90,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/oandrecarvalho/oandrecarvalho/output/snake.svg" alt="Snake animation" />
 </div>
+
 ###
 
 ### ✍️ Random Dev Quote
