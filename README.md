@@ -46,25 +46,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
 </div>
 
-###
 <!-- Redes Sociais -->
 <br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/oandrecarvalho/" target="_blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="30" alt="linkedin logo" />
   </a>
   <a href="https://www.youtube.com/@codecast_unimar" target="_blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="35" alt="youtube logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="30" alt="youtube logo" />
   </a>
   <a href="mailto:andresantoscarvalho2004@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="35" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="30" alt="gmail logo" />
   </a>
   <a href="https://wa.me/5514996002903?text=Olá,%20tudo%20bem?" target="_blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="35" alt="whatsapp logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="30" alt="whatsapp logo" />
   </a>
   <a href="https://www.instagram.com/oandrecarvalhoo/" target="_blank" style="margin: 0 15px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="35" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="30" alt="instagram logo" />
   </a>
 </div>
 
