@@ -9,7 +9,7 @@
   <table style="border: none;">
     <tr>
       <td style="font-size: 1.2rem;">
-        📌 <strong>Desenvolvedor em formação | 🎓 3º termo de ADS - UNIMAR</strong><br>
+        📌 <strong>Desenvolvedor Back-End em formação | 🎓 5º termo de ADS - UNIMAR</strong><br>
         💡 <strong>Apaixonado por tecnologia e aprendizado contínuo</strong><br>
         ⚡ <strong>Entusiasta de esportes** (🏊‍♂️ natação, 🏃 corrida, ⚽ futebol...)</strong>
       </td>
