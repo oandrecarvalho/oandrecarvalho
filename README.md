@@ -9,7 +9,7 @@
   <table style="border: none;">
     <tr>
       <td style="font-size: 1.2rem;">
-        📌 <strong>Desenvolvedor Back-End Junior na Mind7 Soluções | 🎓 5º termo de ADS - UNIMAR</strong><br>
+        📌 <strong>Desenvolvedor Back-End Junior na Mind7 Soluções | 🎓 6º termo de ADS - UNIMAR</strong><br>
         💡 <strong>Apaixonado por tecnologia e em aprendizado contínuo!</strong><br>
         ⚡ <strong>Entusiasta de esportes(capoeria, corrida, futebol...)</strong>
       </td>
@@ -62,7 +62,7 @@
   <a href="https://wa.me/5514996002903?text=Olá,%20tudo%20bem?" target="_blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="30" alt="whatsapp logo" />
   </a>
-  <a href="https://www.instagram.com/oandrecarvalhoo/" target="_blank" style="margin: 0 15px;">
+  <a href="https://www.instagram.com/oandrecarvalhodev/" target="_blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="30" alt="instagram logo" />
   </a>
 </div>
